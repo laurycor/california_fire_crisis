@@ -1,7 +1,7 @@
 [project]
 name = "california-fire-crisis"
 version = "0.1.0"
-description = "Historical Fire Data"
+description = "This project analyzes wildfire activity in California using historical fire data. The purpose of the project is to explore trends in wildfire size, frequency, and damage, while demonstrating a clean and reproducible data science workflow."
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
