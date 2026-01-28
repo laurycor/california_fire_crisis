@@ -1,0 +1,21 @@
+# Environments
+.venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (large or regenerable)
+data/raw/*.csv
+data/raw/*.zip
+
+# Results that can be regenerated
+results/models/
