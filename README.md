@@ -10,7 +10,6 @@ This repository was professionalized as part of **CMSE 492 (Data Science Capston
 ## Project Structure
 
 The repository is organized as follows:
-**
 california_fire_crisis/
 ├── src/ # Core analysis scripts
 ├── notebooks/ # Exploratory Jupyter notebooks
@@ -24,7 +23,6 @@ california_fire_crisis/
 ├── .gitignore # Files ignored by Git
 ├── pyproject.toml # Project metadata and dependencies
 └── uv.lock # Locked dependency versions
-**
 ---
 
 ## Data
