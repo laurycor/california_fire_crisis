@@ -25,7 +25,6 @@ california_fire_crisis/
 ├── pyproject.toml # Project metadata and dependencies
 └── uv.lock # Locked dependency versions
 
-
 ---
 
 ## Data
