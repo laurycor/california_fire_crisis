@@ -28,12 +28,7 @@ california_fire_crisis/
 ## Data
 
 This project uses publicly available wildfire data related to fires in California.
-
-
-### Important notes about the data
-- Large raw data files may **not** be included directly in this repository.
-- If the analysis scripts fail due to missing data, download the appropriate wildfire datasets and place them in `data/raw/` before running the scripts.
-- File paths in the code assume the project is run from the **root directory**.
+Data comes from here: https://github.com/BuzzFeedNews/2018-07-wildfire-trends
 
 ---
 
