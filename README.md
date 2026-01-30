@@ -7,24 +7,6 @@ This repository was professionalized as part of **CMSE 492 (Data Science Capston
 
 ---
 
-## Project Structure
-
-The repository is organized as follows:
-california_fire_crisis/
-├── src/ # Core analysis scripts
-├── notebooks/ # Exploratory Jupyter notebooks
-├── data/
-│ ├── raw/ # Original input data
-│ └── processed/ # Cleaned / transformed data
-├── results/
-│ ├── figures/ # Generated plots
-│ └── tables/ # Generated summary tables
-├── README.md # Project documentation
-├── .gitignore # Files ignored by Git
-├── pyproject.toml # Project metadata and dependencies
-└── uv.lock # Locked dependency versions
----
-
 ## Data
 
 This project uses publicly available wildfire data related to fires in California.
